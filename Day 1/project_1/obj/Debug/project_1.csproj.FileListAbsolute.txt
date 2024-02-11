@@ -1,0 +1,7 @@
+D:\Code\Dot Net Core\Day 1\project_1\bin\Debug\project_1.exe.config
+D:\Code\Dot Net Core\Day 1\project_1\bin\Debug\project_1.exe
+D:\Code\Dot Net Core\Day 1\project_1\bin\Debug\project_1.pdb
+D:\Code\Dot Net Core\Day 1\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+D:\Code\Dot Net Core\Day 1\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+D:\Code\Dot Net Core\Day 1\project_1\obj\Debug\project_1.exe
+D:\Code\Dot Net Core\Day 1\project_1\obj\Debug\project_1.pdb

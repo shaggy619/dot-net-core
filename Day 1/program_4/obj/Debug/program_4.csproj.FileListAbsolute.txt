@@ -1,0 +1,7 @@
+D:\Code\Dot Net Core\Day 1\program_4\bin\Debug\program_4.exe.config
+D:\Code\Dot Net Core\Day 1\program_4\bin\Debug\program_4.exe
+D:\Code\Dot Net Core\Day 1\program_4\bin\Debug\program_4.pdb
+D:\Code\Dot Net Core\Day 1\program_4\obj\Debug\program_4.csproj.AssemblyReference.cache
+D:\Code\Dot Net Core\Day 1\program_4\obj\Debug\program_4.csproj.CoreCompileInputs.cache
+D:\Code\Dot Net Core\Day 1\program_4\obj\Debug\program_4.exe
+D:\Code\Dot Net Core\Day 1\program_4\obj\Debug\program_4.pdb
