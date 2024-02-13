@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{715EC72B-9E1D-434E-BB09-00A175E0C764}</ProjectGuid>
+    <ProjectGuid>{F5A6F5E3-F16E-4926-8B75-A50DF476B6BE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>program_1</RootNamespace>
     <AssemblyName>program_1</AssemblyName>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
