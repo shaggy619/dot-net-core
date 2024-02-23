@@ -11,9 +11,9 @@ namespace program_3
         static void Main(string[] args)
         {
             /***** FOR LOOP IN C# *****/
-            Console.WriteLine("Enter Your Name: ");
+            Console.Write("Enter Your Name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("How many times you want to print: ");
+            Console.Write("How many times you want to print: ");
             string repeatTimes = Console.ReadLine();
             int repeatTimesInt = Convert.ToInt32(repeatTimes);
 
