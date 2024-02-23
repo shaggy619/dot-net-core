@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace program_1
+    
+    /***** BASE CLASS *****/
 {
     public class Animal
     {
@@ -26,6 +28,8 @@ namespace program_1
         }
     }
 }
+
+/***** DERIVED CLASS LION *****/
 class Lion : Animal
 {
     public void SoundMade()
@@ -38,5 +42,14 @@ class Lion : Animal
         {
             Console.WriteLine("Sorry the information is not stored in database!");
         }
+    }
+}
+
+/***** DERIVED CLASS TIGER *****/
+class Tiger : Animal
+{
+    public void Details()
+    {
+        Console.WriteLine($"{Name} is a tiger!");
     }
 }
