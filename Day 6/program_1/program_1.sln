@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program_1", "program_1.csproj", "{571DF9E4-BE4E-41FF-AB5A-E0464C83ABB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progarm_2", "..\progarm_2\progarm_2.csproj", "{7B621699-9F81-4388-AC00-F391D8C71B1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program_2", "..\progarm_2\program_2.csproj", "{7B621699-9F81-4388-AC00-F391D8C71B1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program_3", "..\program_3\program_3.csproj", "{D555C3B6-2904-4EC0-92FD-5455CAE2C587}"
 EndProject
