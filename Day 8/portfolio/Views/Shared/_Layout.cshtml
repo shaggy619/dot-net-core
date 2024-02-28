@@ -6,6 +6,8 @@
     <title>@ViewData["Title"] - Portfolio</title>
     <link rel="icon" href="~/fav.png" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/portfolio.styles.css" asp-append-version="true" />
 </head>
@@ -46,9 +48,28 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
+    <footer class="border-top footer text-muted footer-content">
+        <div class="container footer-text">
             &copy; 2024 - SomeAim - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+        <div>
+            <ul class="footer-social-icons">
+                <li>
+                    <a href="https://www.facebook.com/someaim.adhikari.1/"><i class="fa-brands fa-facebook-f"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/SomeAim"><i class="fa-brands fa-twitter"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/samyam-adhikari-188724230/"><i class="fa-brands fa-linkedin-in"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/someaim1/"><i class="fa-brands fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/@@crowninkproduction3197/"><i class="fa-brands fa-youtube"></i></a>
+                </li>
+            </ul>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
