@@ -30,6 +30,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+main {
+    min-height: 500px;
+}
+
 .logo {
     font-weight: 500;
 }
