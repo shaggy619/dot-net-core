@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0B6C891D-EE77-470C-A7F9-747520E87373}</ProjectGuid>
+    <ProjectGuid>{C2860A59-34C9-46F3-A756-18813637D591}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>linq</RootNamespace>
-    <AssemblyName>linq</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
