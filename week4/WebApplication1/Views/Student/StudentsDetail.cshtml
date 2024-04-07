@@ -1,0 +1,58 @@
+﻿@*@model IEnumerable<WebApplication1.Models.studentModel>*@
+@model List<studentModel>
+
+@{
+    ViewData["Title"] = "StudentsDetail";
+}
+
+<h1>StudentsDetail</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.RollNo) or*@
+                RollNo
+            </th>
+            <th>
+               FirstName
+            </th>
+            <th>
+               LastName
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+               Faculty
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+               
+                @item.RollNo
+
+            </td>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastNAme
+            </td>
+            <td>
+               @item.Address
+            </td>
+            <td>
+                @item.Faculty
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
